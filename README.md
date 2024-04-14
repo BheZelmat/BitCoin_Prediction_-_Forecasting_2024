@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/BheZelmat/BitCoin_Prediction_-_Forecasting_2024/blob/main/Img.png?raw=true)
+![alt text](https://github.com/BheZelmat/BitCoin_Prediction_-_Forecasting_2024/blob/main/Img.jpeg?raw=true)
 
 
 
